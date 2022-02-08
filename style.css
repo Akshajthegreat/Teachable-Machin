@@ -1,0 +1,19 @@
+body{
+    color:blue;
+    background-color: rgb(36, 107, 240);
+}
+.heading{
+    width:80%;
+    font-size:22px ;
+    background-color: chocolate;
+    color:rgb(212, 255, 94)
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color:gold;
+    font-family:cursive
+}
+#camera{
+ border:2px dashed black;
+width:350px;
+height:300px;
+}
